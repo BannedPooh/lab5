@@ -45,7 +45,7 @@ void sort_string(string& str, int size){
 
 void print_freq(string& str, int size)
 {
-    cout<<"Sorted and cleaned-up sentence :"<<str<<endl;
+    cout<<"Sorted and cleaned-up sentence:"<<str<<endl;
     string checked;
     for (int i = 0; i != size; ++i)
     {
