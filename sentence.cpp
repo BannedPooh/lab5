@@ -11,7 +11,7 @@ void print_freq(string& str, int size);
 int main()
 {
     string sentence;
-    cout<<"Enter sentence :";
+    cout<<"Enter sentence: ";
     getline(cin, sentence);
 
     
